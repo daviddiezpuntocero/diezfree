@@ -1,0 +1,4 @@
+https://styde.net/manejo-de-errores-y-excepciones-en-laravel-5-1/
+https://styde.net/api-rest-en-laravel-5-1-validaciones/
+
+TokenMismatchException in VerifyCsrfToken.php line 67: ESTA ES LA QUE SALTA CUANDO CADUCA LA SESIÓN EN PAGINA --> CREAR
